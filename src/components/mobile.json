@@ -1,0 +1,135 @@
+[ {
+                    "id": 0,
+                    "name": "Galaxy Z Fold2",
+                    "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-z-fold2-f916-sm-f916bzkqskz-frontmysticblack-thumb-292303858?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "черный"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Z Flip",
+                    "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-z-flip-f700-sm-f700fzkdcac-frontmirrorblack-thumb-209107684?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "черный,пурпурный",
+                            "capacity": "256 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 0,
+                    "name": "Galaxy S20 FE",
+                    "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-s20-fe-g780-sm-g780flvdcac-frontcloudlavendar-thumb-305260886?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "лаванда,синий,мята,красный,белый",
+                            "capacity": "None"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy S20",
+                    "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-s20-g980-sm-g980fzadcac-frontcosmicgray-thumb-209107372?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "серый,голубой,красный",
+                            "capacity": "128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Galaxy S20+",
+                    "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-s20-plus-g985-sm-g985flbdcac-frontcloudblue-thumb-209107450?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "голубой,черный,серый",
+                            "capacity": "128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Galaxy S10",
+                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10-g973-sm-g973fzwdskz-frontprismwhite-thumb-147335117?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "перламутр,оникс,аквамарин,красный",
+                            "capacity": "128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Galaxy S10 Lite",
+                    "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-s10-lite-g770-sm-g770fzbgcac-frontprismblue-thumb-216515382?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "синий,черный,перламутр",
+                            "capacity": "128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Galaxy S10e",
+                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10e-sm-g970fzgdskz-frontprismgreen-thumb-147308276?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "аквамарин,оникс,перламутр",
+                            "capacity": "128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Galaxy S10+",
+"image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10-plus-sm-g975fzkdskz-frontprismblack-thumb-147295044?$PF_PRD_PNG$",
+                    "params": [
+                        {
+          
+                            "colors": "оникс,аквамарин,черная керамика,перламутр,красный,белая керамика",
+                            "capacity": "1 ТБ,128 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Galaxy Note10",
+                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note10-sm-n970-sm-n970fzkdskz-frontaurablack-thumb-178397170?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "черный,аура,красный",
+                            "capacity": "256 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Galaxy Note10+",
+                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note10-plus-sm-n975-sm-n975fzkdskz-frontaurablack-thumb-178397371?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "черный,аура,белый",
+                            "capacity": "256 ГБ"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Galaxy Note9",
+                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note9-n960-sm-n960fzbdser-frontblue-thumb-111363352?$PF_PRD_PNG$",
+                    "params": [
+                        {
+                            "colors": "синий,чёрный,лаванда",
+                            "capacity": "128 ГБ,512 ГБ"
+                        }
+                    ]
+                }
+            
+            
+            ]
